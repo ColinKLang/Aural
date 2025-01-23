@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "SF Mono Nerd Font";
+  src: url("/sf-mono.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+html,
+body,
+code {
+  font-family: "SF Mono Nerd Font", monospace;
+}
+
+.animation-delay-2000 {
+  animation-delay: 2s;
+}
+
+.animation-delay-4000 {
+  animation-delay: 4s;
+}
+
+.animation-delay-6000 {
+  animation-delay: 6s;
+}
