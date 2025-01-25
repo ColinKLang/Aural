@@ -1,6 +1,6 @@
 
 <p align="center">
-<code>Aural</code> is a Solana toolkit for algorithmic trading
+<code>Tone</code> is a Solana toolkit for algorithmic trading
 </p>
 
 ## Features
